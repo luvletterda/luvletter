@@ -4,6 +4,6 @@ public class Test {
 		System.out.println("Hello world!!");
 		System.out.println("Good bye~~");
 		System.out.println("See you");
-		System.out.println("Enjoy your");
+		System.out.println("Enjoy your time");
 	}
 }
